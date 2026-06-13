@@ -4,7 +4,7 @@
 Analyzed Zomato restaurant dataset with 9.5K+ restaurants to understand location, cuisine, and delivery trends across India.
 
 ## Dashboard
-![Zomato Dashboard](zomato_dashboard.png)
+![Zomato Dashboard](zomato.png)
 
 ## Key Insights
 - **New Delhi** has max restaurants & 35.4% delivery penetration
@@ -24,4 +24,4 @@ Analyzed Zomato restaurant dataset with 9.5K+ restaurants to understand location
 - Charts for Top 10 Cities, Rating Distribution
 
 ## How to Use
-Download the `.pbix` file from this repo and open in Power BI Desktop.
+Download the `zomato.pbix` file from this repo and open in Power BI Desktop.
